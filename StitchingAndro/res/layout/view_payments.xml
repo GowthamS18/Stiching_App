@@ -1,0 +1,108 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/red"
+    android:orientation="vertical" >
+
+    <!-- Child linear layout with horizontal orientation -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" 
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp">
+        
+          <TextView
+              android:id="@+id/heading"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_gravity="center"
+              android:text="View Payments"
+               android:textColor="@color/white"
+              android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="100dip"
+        android:layout_gravity="center"
+        android:src="@drawable/payments" />
+
+    <Spinner
+        android:id="@+id/spinner1"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_weight="0.20" />
+
+<TextView
+    android:id="@+id/tv1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="tv1"
+     android:textColor="@color/white"
+    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+<TextView
+    android:id="@+id/tv2"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="tv2"
+     android:textColor="@color/white"
+    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+
+<TextView
+    android:id="@+id/tv3"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="tv3"
+     android:textColor="@color/white"
+    android:textAppearance="?android:attr/textAppearanceMedium" />
+<TextView
+    android:id="@+id/tv4"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="tv4"
+     android:textColor="@color/white"
+    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+<TextView
+    android:id="@+id/tv5"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="tv5"
+     android:textColor="@color/white"
+    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+<TextView
+    android:id="@+id/tv6"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="tv6"
+     android:textColor="@color/white"
+    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+
+<TextView
+    android:id="@+id/tv7"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="tv7"
+     android:textColor="@color/white"
+    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    </LinearLayout>
+
+   
+     
+        <Button
+            android:id="@+id/btn1"
+             style="?android:attr/buttonStyleSmall"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"   
+            android:onClick="back"   
+             android:textColor="@color/white"     
+            android:text="Back" />
+
+</LinearLayout>

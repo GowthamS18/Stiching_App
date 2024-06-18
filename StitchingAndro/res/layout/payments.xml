@@ -1,0 +1,114 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="5dp"
+    android:layout_marginRight="5dp"
+    android:orientation="vertical" >
+
+    <!-- Child linear layout with horizontal orientation -->
+
+    <TextView
+        android:id="@+id/heading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Payments"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="100dip"
+        android:layout_gravity="center"
+        android:src="@drawable/payments" />
+
+<TextView
+    android:id="@+id/tv1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="tv1"
+    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+<TextView
+    android:id="@+id/tv2"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="tv2"
+    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+<TextView
+    android:id="@+id/tv3"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="tv3"
+    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+	<Spinner
+                android:id="@+id/spinner1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"              
+                android:ems="15"
+                 android:textColor="@color/white"
+                 android:entries="@array/paymentmode" 
+				/>
+ 
+	<EditText
+	    android:id="@+id/ed1"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:ems="10"
+	    android:hint="Bank Name"	   
+	    android:textSize="14sp" >
+    	<requestFocus />
+	</EditText>
+
+	<EditText
+	    android:id="@+id/ed2"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:ems="10"
+	    android:hint="Account Number"	
+	    android:textSize="14sp" >    	
+	</EditText>
+	
+		<EditText
+	    android:id="@+id/ed3"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:ems="10"
+	    android:hint="PIN Number"	
+	    android:textSize="14sp" >    	
+	</EditText>
+		<EditText
+	    android:id="@+id/ed4"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:ems="10"
+	    android:hint="Amount"	
+	    android:textSize="14sp" >    	
+	</EditText>
+	
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="AddtoCart"
+        android:layout_weight="1"
+        android:text="Save" />
+
+    <Button
+        android:id="@+id/button2"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="match_parent"
+         android:onClick="back"
+        android:layout_height="wrap_content"
+         android:layout_weight="1"
+        android:text="Back" />
+
+</LinearLayout>
+
+</LinearLayout>

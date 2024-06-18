@@ -1,0 +1,5 @@
+INDEX VERSION 1.126+D:\Stitching app\.metadata\.plugins\org.eclipse.jdt.core
+2044157477.index
+701957225.index
+1880588807.index
+731847424.index

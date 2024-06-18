@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="bg_gradient_start">#31244e</color>
+    <color name="bg_gradient_end">#6b394c</color>
+    <color name="black">#111111</color>
+    <color name="red">#E10625</color>
+    <color name="lightred">#ff5235</color>
+     <color name="green">#21AF05</color>     
+      <color name="blue">#bee4ec</color>
+       <color name="gray">#DCDCDC</color>
+     
+     
+</resources>

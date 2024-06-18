@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Thread Express</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_home_page">HomePage</string>
+    <string name="title_activity_edit_profile">Add to Cart</string>
+    <string name="title_activity_test">Test</string>
+    <string name="title_activity_request">RequestActivity</string>
+    <string name="planet_prompt">Choose a planet</string>
+
+    <string-array name="cat">
+        <item>Mens </item>
+        <item>Womens</item>
+        <item>Kids </item>
+        <item>All </item>
+    </string-array>
+    <string-array name="designCat">
+        <item>Shirt </item>
+        <item>Pant</item>
+        <item>Suits </item>
+        <item>Kurtha </item>
+        <item>Chudithar </item>
+        <item>Blouse </item>
+        <item>Alteration </item>
+    </string-array>
+    <string-array name="district">
+        <item>Ariyalur</item>
+        <item>Chengalpattu</item>
+        <item>Chennai</item>
+        <item>Coimbatore</item>
+        <item>Cuddalore</item>
+        <item>Dharmapuri</item>
+        <item>Dindigul</item>
+        <item>Erode</item>
+        <item>Kallakurichi</item>
+        <item>Kancheepuram</item>
+        <item>Karur</item>
+        <item>Krishnagiri</item>
+        <item>Madurai</item>
+        <item>Mayiladuthurai</item>
+    </string-array>
+    <string-array name="location">
+        <item>Pollachi </item>
+        <item>Kinathukadavu</item>
+        <item>Echanari</item>
+        <item>Thudiyalur</item>
+        <item>Saravanampatti</item>
+        <item>Annur </item>
+        <item>Mettupalayam </item>
+    </string-array>
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>TG</item>
+    </string-array>
+
+    <string name="title_activity_selection">Selection</string>
+    <string name="title_activity_ratings">Ratings</string>
+    <string name="title_activity_login_select">Thread Express</string>
+    <string name="title_activity_stu_login">Login</string>
+    <string name="title_activity_stu_register">Register</string>
+    <string name="title_activity_stu_home">Home</string>
+    <string name="title_activity_check_out">CheckOut</string>
+    <string name="title_activity_view_single_prod">ViewSingleProd</string>
+    <string name="title_activity_vendor_registration">VendorRegistration</string>
+    <string name="title_activity_vendor_login">VendorLogin</string>
+    <string name="title_activity_vendor_home">VendorHome</string>
+    <string name="title_activity_view_orders">ViewOrders</string>
+    <string name="title_activity_view_measurements">ViewMeasurements</string>
+    <string name="title_activity_view_payments">ViewPayments</string>
+    <string name="title_activity_update_status">UpdateStatus</string>
+    <string name="title_activity_add_measurement">AddMeasurement</string>
+    <string name="title_activity_my_orders">MyOrders</string>
+    <string name="title_activity_cust_view_measurements">CustViewMeasurements</string>
+    <string name="title_activity_user_home">UserHome</string>
+
+</resources>

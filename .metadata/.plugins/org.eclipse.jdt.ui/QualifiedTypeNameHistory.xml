@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.example.stitchingandro.UserHome"/>
+<fullyQualifiedTypeName name="android.view.View"/>
+<fullyQualifiedTypeName name="com.example.stitchingandro.CustLogin"/>
+<fullyQualifiedTypeName name="com.example.stitchingandro.VendorLogin"/>
+<fullyQualifiedTypeName name="com.example.stitchingandro.LoginSelect"/>
+<fullyQualifiedTypeName name="android.widget.ImageView"/>
+<fullyQualifiedTypeName name="android.graphics.Bitmap"/>
+<fullyQualifiedTypeName name="java.io.ByteArrayOutputStream"/>
+<fullyQualifiedTypeName name="android.util.Base64"/>
+<fullyQualifiedTypeName name="android.net.Uri"/>
+<fullyQualifiedTypeName name="android.provider.MediaStore"/>
+<fullyQualifiedTypeName name="android.database.Cursor"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="android.content.Intent"/>
+<fullyQualifiedTypeName name="com.example.stitchingandro.VendorHome"/>
+<fullyQualifiedTypeName name="com.example.stitchingandro.AddMeasurement"/>
+<fullyQualifiedTypeName name="android.widget.Spinner"/>
+<fullyQualifiedTypeName name="android.os.StrictMode"/>
+<fullyQualifiedTypeName name="android.widget.ArrayAdapter"/>
+<fullyQualifiedTypeName name="com.example.stitchingandro.ViewMeasurements"/>
+<fullyQualifiedTypeName name="com.example.stitchingandro.ViewPayments"/>
+<fullyQualifiedTypeName name="android.widget.EditText"/>
+<fullyQualifiedTypeName name="com.example.stitchingandro.UpdateStatus"/>
+<fullyQualifiedTypeName name="com.example.stitchingandro.MyOrders"/>
+<fullyQualifiedTypeName name="com.example.stitchingandro.NewOrder"/>
+<fullyQualifiedTypeName name="com.example.stitchingandro.CustViewMeasurements"/>
+<fullyQualifiedTypeName name="com.example.stitchingandro.ViewStatus"/>
+<fullyQualifiedTypeName name="com.example.stitchingandro.Payments"/>
+</qualifiedTypeNameHistroy>
